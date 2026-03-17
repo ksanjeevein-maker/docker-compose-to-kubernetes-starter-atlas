@@ -35,3 +35,9 @@ Use this skill to answer the practical question, "what is the target-platform wa
 - Model readiness and liveness explicitly instead of relying on container startup order.
 - Separate non-secret configuration from secrets.
 - Treat persistence and networking as cluster-level concerns, not local Docker defaults.
+
+## Extended references
+
+- Read `references/decision-guide.md` when the user needs a migration path or sequence.
+- Read `references/worked-example.md` when a concrete example would help.
+- Read `references/review-checklist.md` when reviewing an implementation or plan.
