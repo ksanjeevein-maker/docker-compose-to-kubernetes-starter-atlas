@@ -1,0 +1,13 @@
+---
+description: Use Compose to Kubernetes Atlas when a task needs a reliable source-to-target mapping or official reference pack.
+alwaysApply: false
+---
+
+# Compose to Kubernetes Atlas
+
+- Read `AGENTS.md` for the main workflow.
+- Use `.github/skills/docker-compose-kubernetes-atlas/references/concepts.md` for conceptual mapping.
+- Use `.github/skills/docker-compose-kubernetes-atlas/references/patterns.md` for rewrite and debugging patterns.
+- Use `.github/skills/docker-compose-kubernetes-atlas/references/official-links.md` or `official-references.md` when citations are needed.
+- Prefer native target-platform patterns over transliteration.
+- Explain the mental model shift before giving a long answer.

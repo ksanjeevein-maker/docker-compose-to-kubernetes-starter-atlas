@@ -1,0 +1,4 @@
+interface:
+  display_name: "Compose to Kubernetes Atlas"
+  short_description: "Translate Compose services into Kubernetes"
+  default_prompt: "Use $docker-compose-kubernetes-atlas to explain the target-side pattern, mindset shift, and official references for this task."
